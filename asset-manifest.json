@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.js": "/rudaelka/static/js/main.7ab5936d.chunk.js",
-    "main.js.map": "/rudaelka/static/js/main.7ab5936d.chunk.js.map",
-    "runtime-main.js": "/rudaelka/static/js/runtime-main.b95b5e62.js",
-    "runtime-main.js.map": "/rudaelka/static/js/runtime-main.b95b5e62.js.map",
-    "static/js/2.4fad5d86.chunk.js": "/rudaelka/static/js/2.4fad5d86.chunk.js",
-    "static/js/2.4fad5d86.chunk.js.map": "/rudaelka/static/js/2.4fad5d86.chunk.js.map",
-    "index.html": "/rudaelka/index.html",
-    "static/js/2.4fad5d86.chunk.js.LICENSE.txt": "/rudaelka/static/js/2.4fad5d86.chunk.js.LICENSE.txt",
-    "static/media/marianne-krohn-8wDm3cr48Xc-unsplash.db0f559b.jpg": "/rudaelka/static/media/marianne-krohn-8wDm3cr48Xc-unsplash.db0f559b.jpg"
+    "main.css": "./static/css/main.fc0706bd.css",
+    "main.js": "./static/js/main.aa3e4643.js",
+    "index.html": "./index.html",
+    "main.fc0706bd.css.map": "./static/css/main.fc0706bd.css.map",
+    "main.aa3e4643.js.map": "./static/js/main.aa3e4643.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b95b5e62.js",
-    "static/js/2.4fad5d86.chunk.js",
-    "static/js/main.7ab5936d.chunk.js"
+    "static/css/main.fc0706bd.css",
+    "static/js/main.aa3e4643.js"
   ]
 }
